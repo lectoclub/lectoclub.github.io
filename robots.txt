@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lectoclub.github.io/sitemap-index.xml
+
+# AI-readable site overview: https://lectoclub.github.io/llms.txt

@@ -1,0 +1,23 @@
+# LectoClub
+
+> LectoClub is a mobile app (iOS and Android) that turns the physical books members already own into a shared library for a club: a school class, a reading group or a bookshop's reading club. It is made by ArnoHealth S.L. (onmedic), Barcelona.
+
+- Members register physical copies (by ISBN or by hand) and choose which clubs to share them with. Each copy is separate.
+- Loans with due dates, renewals and waiting lists; QR bookplates; reading diary and an end-of-year reading certificate for children.
+- Reading groups: polls for the next book, meetings and chapter read-alongs where each section's discussion opens only when you reach it.
+- Bookshop clubs: the bookshop picks the club book, opens discussion topics (with spoiler warnings) and links to its shop; lending between members is off.
+- Children have no accounts: they are profiles managed by a responsible adult. No ads, data stored in the EU.
+- Pricing: free plan (1 club, 15 members, 150 books); Club plan €59.99/year or €6.99/month, paid by the organiser, free for every member; Personal plan €24.99/year or €2.99/month.
+- LectoClub does not sell, lend out or distribute books itself.
+
+## Pages
+
+- [Home (Catalan)](https://lectoclub.github.io/ca/)
+- [Home (Spanish)](https://lectoclub.github.io/es/)
+- [Home (English)](https://lectoclub.github.io/en/)
+- [Privacy policy](https://lectoclub.github.io/en/privacy/)
+- [Terms of use](https://lectoclub.github.io/en/terms/)
+- [Delete your account](https://lectoclub.github.io/en/delete-account/)
+- [Help](https://lectoclub.github.io/en/support/)
+- [App Store](https://apps.apple.com/app/id6818993616)
+- [Google Play](https://play.google.com/store/apps/details?id=com.arnohealth.lectoclub)
