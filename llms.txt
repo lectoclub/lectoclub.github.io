@@ -15,6 +15,8 @@
 - [Home (Catalan)](https://lectoclub.github.io/ca/)
 - [Home (Spanish)](https://lectoclub.github.io/es/)
 - [Home (English)](https://lectoclub.github.io/en/)
+- [For bookshops (Catalan)](https://lectoclub.github.io/ca/llibreries/)
+- [For bookshops (English)](https://lectoclub.github.io/en/bookshops/)
 - [Privacy policy](https://lectoclub.github.io/en/privacy/)
 - [Terms of use](https://lectoclub.github.io/en/terms/)
 - [Delete your account](https://lectoclub.github.io/en/delete-account/)
