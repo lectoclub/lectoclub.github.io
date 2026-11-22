@@ -12,14 +12,14 @@
 
 ## Pages
 
-- [Home (Catalan)](https://lectoclub.github.io/ca/)
-- [Home (Spanish)](https://lectoclub.github.io/es/)
-- [Home (English)](https://lectoclub.github.io/en/)
-- [For bookshops (Catalan)](https://lectoclub.github.io/ca/llibreries/)
-- [For bookshops (English)](https://lectoclub.github.io/en/bookshops/)
-- [Privacy policy](https://lectoclub.github.io/en/privacy/)
-- [Terms of use](https://lectoclub.github.io/en/terms/)
-- [Delete your account](https://lectoclub.github.io/en/delete-account/)
-- [Help](https://lectoclub.github.io/en/support/)
+- [Home (Catalan)](https://lectoclub.net/ca/)
+- [Home (Spanish)](https://lectoclub.net/es/)
+- [Home (English)](https://lectoclub.net/en/)
+- [For bookshops (Catalan)](https://lectoclub.net/ca/llibreries/)
+- [For bookshops (English)](https://lectoclub.net/en/bookshops/)
+- [Privacy policy](https://lectoclub.net/en/privacy/)
+- [Terms of use](https://lectoclub.net/en/terms/)
+- [Delete your account](https://lectoclub.net/en/delete-account/)
+- [Help](https://lectoclub.net/en/support/)
 - [App Store](https://apps.apple.com/app/id6818993616)
 - [Google Play](https://play.google.com/store/apps/details?id=com.arnohealth.lectoclub)
