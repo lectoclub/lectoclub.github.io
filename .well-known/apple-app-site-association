@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["6LDPUZ372Q.com.arnohealth.lectoclub"],
+        "components": [
+          { "/": "/j/*", "comment": "Invitacions a clubs: /j/?c=LECTO-XXXXXX" }
+        ]
+      }
+    ]
+  }
+}

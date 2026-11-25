@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.arnohealth.lectoclub",
+      "sha256_cert_fingerprints": [
+        "FF:97:F4:85:74:F0:4A:9A:7F:F6:6F:26:B9:10:32:12:5A:12:74:0F:8C:6F:CA:64:2E:0E:5B:42:7C:56:F1:7D"
+      ]
+    }
+  }
+]
